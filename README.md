@@ -1,5 +1,5 @@
 ## Smart Study Assistant:
-We are building an AI assistant that can answer 2 types of questions:
+AI assistant that can answer 2 types of questions:
 
 Theory question: "What is langgraph?"
 Coding question: "Write a python code to build a calculator"
